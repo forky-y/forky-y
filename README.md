@@ -1,4 +1,4 @@
-<!-- Animated Wave Banner -->
+<!-- 🌊 Animated Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:BD93F9&height=200&section=header&text=Agil%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ---
@@ -13,26 +13,17 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🧊 About Me
-<div align="right">
 
 Passionate about building bots, automation tools, and backend systems.  
 Love turning ideas into real working projects 🚀  
 
 Currently exploring:
+
 • Backend Architecture  
 • Cloud Infrastructure  
 • AI Automation  
 
-</div>
 </div>
 
 ---
@@ -51,7 +42,7 @@ Currently exploring:
 
 ### 🎧 Spotify Playing
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31i7k4xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_ID_KAMU&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
 
 </div>
 
@@ -81,7 +72,7 @@ Currently exploring:
 
 <div align="center">
 
-### 🌌 3D Contribution Calendar
+### 🌌 Contribution Overview
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=forky-y&theme=dracula" />
 
@@ -127,7 +118,7 @@ Currently exploring:
 
 ### 💬 Discord Status
 
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=121212&borderRadius=10px" />
+<img src="https://lanyard.cnrad.dev/api/DISCORD_ID_KAMU?theme=dark&bg=121212&borderRadius=10px" />
 
 </div>
 
@@ -161,5 +152,6 @@ Currently exploring:
 
 ---
 
+<!-- 🌊 Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:BD93F9&height=120&section=footer"/>
 
