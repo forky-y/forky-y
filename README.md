@@ -42,7 +42,7 @@ Cyberpunk developer passionate about bots, automation, and backend systems 🚀
 
 ### 🎧 Spotify Now Playing
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_ID_KAMU&cover_image=true&theme=novatorem&background_color=0d1117&border_radius=25"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31lw6shdwp53kckzfnqclpm4r2sm&cover_image=true&theme=novatorem&background_color=0d1117&border_radius=25"/>
 
 <br>
 
