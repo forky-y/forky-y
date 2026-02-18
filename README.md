@@ -119,7 +119,8 @@ Cyberpunk developer passionate about bots, automation, and backend systems 🚀
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forky-y/forky-y/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/forky-y/forky-y/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/forky-y/forky-y/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/forky-y/forky-y/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
