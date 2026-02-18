@@ -1,7 +1,3 @@
-<!-- 🌌 MATRIX RAIN -->
-<img width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/matrix.gif"/>
-
-<!-- 💜 CYBER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f3460,100:00F7FF&height=260&section=header&text=AGIL&fontSize=80&fontColor=00F7FF&animation=fadeIn&desc=Cyberpunk%20Bot%20Developer&descSize=20&descAlignY=70"/>
 
 ---
