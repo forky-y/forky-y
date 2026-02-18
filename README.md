@@ -140,7 +140,7 @@ Cyberpunk developer passionate about bots, automation, and backend systems 🚀
 
 ### 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=forky-y&theme=matrix&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy-one.vercel.app/?username=forky-y&theme=matrix&no-frame=true&margin-w=10"/>
 
 </div>
 
