@@ -21,7 +21,6 @@
 <div align="center">
 
 ### 🧊 About Me
-
 Cyberpunk developer passionate about bots, automation, and backend systems 🚀  
 
 </div>
@@ -56,7 +55,7 @@ Cyberpunk developer passionate about bots, automation, and backend systems 🚀
 
 ### ⌛ Coding Activity
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=forky&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=forky&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -66,7 +65,7 @@ Cyberpunk developer passionate about bots, automation, and backend systems 🚀
 
 ### 🚀 Latest Projects
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=forky-y&repo=FORKYHUB&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=forky-y&repo=FORKYHUB&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -76,9 +75,9 @@ Cyberpunk developer passionate about bots, automation, and backend systems 🚀
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=forky-y&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=forky-y&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=forky-y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=forky-y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
