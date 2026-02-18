@@ -56,7 +56,7 @@ Cyberpunk developer passionate about bots, automation, and backend systems 🚀
 
 ### ⌛ Coding Activity
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=forky&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
