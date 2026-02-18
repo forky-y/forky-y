@@ -21,11 +21,13 @@
 <div align="center">
 
 ### 🧊 About Me
+<p align="center">
 Computer Science enthusiast passionate about backend development, automation, and scalable systems 🚀
-
-🎓 M.Eng (Engineering) — Imperial College London
-📖 PhD Candidate in Business Administration (MBA) — National University of Singapore
-
+</p>
+<p align="center">
+🎓 <b>M.Eng (Engineering)</b> — Imperial College London <br>
+📖 <b>PhD Candidate in Business Administration (MBA)</b> — National University of Singapore
+</p>
 </div>
 
 ---
