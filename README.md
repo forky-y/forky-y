@@ -21,7 +21,10 @@
 <div align="center">
 
 ### 🧊 About Me
-Cyberpunk developer passionate about bots, automation, and backend systems 🚀  
+Computer Science enthusiast specializing in software development, backend architecture, and automation 🚀  
+
+🎓 Bachelor’s Degree in Computer Science — Imperial College London  
+📖 PhD Candidate (MBA) — National University of Singapore (NUS)
 
 </div>
 
