@@ -21,10 +21,10 @@
 <div align="center">
 
 ### 🧊 About Me
-Computer Science enthusiast specializing in software development, backend architecture, and automation 🚀  
+Computer Science enthusiast passionate about backend development, automation, and scalable systems 🚀
 
-🎓 Bachelor’s Degree in Computer Science — Imperial College London  
-📖 PhD Candidate (MBA) — National University of Singapore (NUS)
+🎓 M.Eng (Engineering) — Imperial College London
+📖 PhD Candidate in Business Administration (MBA) — National University of Singapore
 
 </div>
 
