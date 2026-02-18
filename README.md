@@ -112,6 +112,8 @@ Computer Science enthusiast specializing in software development, backend archit
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/forky-y/forky-y/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 </div>
 
 ---
