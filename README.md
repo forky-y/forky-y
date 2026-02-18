@@ -130,7 +130,7 @@ Cyberpunk developer passionate about bots, automation, and backend systems 🚀
 
 ### 💬 Discord Presence
 
-<img src="https://api.lanyard.rest/v1/users/1350687474762121247?theme=dark&bg=0d1117&borderRadius=20"/>
+<img src="https://lanyard.cnrad.dev/api/1350687474762121247?theme=dark&bg=0d1117&borderRadius=20"/>
 
 </div>
 
